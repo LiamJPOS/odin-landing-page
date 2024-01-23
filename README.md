@@ -4,18 +4,18 @@ Welcome to my Landing Page practice project! This project was created to enhance
 
 Feel free to explore the page and see how Flexbox is utilized to create a responsive and visually appealing design.
 
-# Features
+## Features
 - Responsive layout using Flexbox.
 - Demonstrates various Flexbox properties such as `flex-direction`, `justify-content`, `align-items`, and more.
 - Minimalistic design to focus on Flexbox implementation.
 - Lightweight and easy to understand HTML and CSS structure.
 - CSS uses BEM methodology.
 
-# Technologies Used
+## Technologies Used
 - HTML
 - CSS
 
-# Getting Started
+## Getting Started
 To get a copy of this project up and running on your local machine, follow these steps:
 
 1. Clone the Repository
